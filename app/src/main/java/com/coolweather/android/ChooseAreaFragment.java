@@ -41,6 +41,7 @@ public class ChooseAreaFragment extends Fragment {
     public static final int LEVEL_COUNTY = 2;
     /**
      * 准备一些控件
+     *
      */
     private ProgressDialog progressDialog;
     private TextView titleText;
