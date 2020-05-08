@@ -80,6 +80,7 @@ public class WeatherActivity extends AppCompatActivity {
         pm25Text = findViewById(R.id.pm25_text);
         comfortText = findViewById(R.id.comfort_text);
         carWashText = findViewById(R.id.car_wash_text);
+        sportText = findViewById(R.id.sport_text);
 
         navButton.setOnClickListener(new View.OnClickListener() {
             @Override
